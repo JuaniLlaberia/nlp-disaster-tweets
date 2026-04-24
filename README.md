@@ -29,8 +29,6 @@ My approach focused on:
 - Hyperparameter tuning
 
 Final result: **🏅 Rank 56**  
-(*Note: Top ~10 submissions likely affected by data leakage due to perfect scores*)
-
 ---
 
 ## Experiments
